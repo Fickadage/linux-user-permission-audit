@@ -1,0 +1,20 @@
+===Linux User & Permission Audit ===
+
+[1] Current User: 
+gloryemmanuel
+
+uid=501(gloryemmanuel) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),98(_lpadmin),33(_appstore),100(_lpoperator),204(_developer),250(_analyticsusers),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh),400(com.apple.access_remote_ae),701(com.apple.sharepoint.group.1)
+
+
+[4] Sudo privileges (if allowed):
+No sudo access (or password required).
+
+[5] key file permissions:
+-rw-r--r--  1 root  wheel  8164 Aug 16  2025 /etc/passwd
+-r--r-----  1 root  wheel  1563 Aug 16  2025 /etc/sudoers
+Could not 
+access one or more files.
+
+[6] World-writeable files on this filesystem (top 10):
+
+===Audit Complete ===
